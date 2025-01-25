@@ -1,0 +1,1 @@
+This bug occurs when using Expo's `Linking` API to open a URL in a custom browser.  The URL opens correctly, but the app crashes immediately after returning to the app from the browser. This happens inconsistently; sometimes it works fine, other times it crashes.
